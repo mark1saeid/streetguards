@@ -1,0 +1,135 @@
+{
+  "permissionScreen": "---------------------------------------------------------------",
+  "permissionT1": "Location",
+  "permissionDesc1": "we need this permission to determine your location on the map.",
+  "permissionT2": "Storage",
+  "permissionDesc2": "we need this permission to upload files .",
+  "permissionT3": "Camera",
+  "permissionDesc3": "we need this permission to capture image for reporting.",
+  "permissionT4": "Record",
+  "permissionDesc4": "we need this permission to send voice record reports.",
+
+  "permissionT5": "Alert !",
+  "permissionDesc5": "You need to allow all permissions to allow to continue .",
+  "permissionB1": "Continue",
+
+
+"profileScreen": "---------------------------------------------------------------",
+  "profileTitle":"Personal Information",
+  "profileSubDesc1": "please provide your personal information .",
+  "profileL1": "Full Name",
+  "profileL2": "Email Address",
+  "profileL3": "Birth Date",
+  "profileL4": "Gender",
+  "profileL5": "Profession",
+  "profileL6": "Driving Experience",
+  "profileL7": "Expert",
+  "profileL8": "Car OwnerShip",
+  "profileB1": "Save",
+  "profileTgl1": "Yes",
+  "profileTgl2": "No",
+  "profileSubDesc2": "are you expert street guard ?",
+  "profileSubDesc3": "do you have a car ?",
+  "profileSubDesc4": "are you a transportation expert?",
+  "profileG1": "Male",
+  "profileG2": "Female",
+  "profileP1": "By continuing, you agree to our ",
+  "profileP2": "Privacy Policy",
+
+
+
+  "HomeScreen": "---------------------------------------------------------------",
+  "homeB1": "Report",
+  "homeB2": "Locate & Report",
+  "homeB3": "OK",
+  "homeB4": "Edit",
+  "homeB5": "Cancel",
+  "homeB6": "Apply",
+  "homeB7": "Dismiss",
+  "homeB8": "Send",
+  "homeT1": "{} / 30 Sec",
+  "homeT2": "Info",
+  "homeT3": "Preview",
+  "homeT4": "Profile",
+  "homeT5": "loading",
+  "homeT6": "Issue Reported",
+  "homeT7": "Date : {} Description : {}",
+  "homeT8": "Search",
+  "homeDesc1": "Clusters shows the issue density of the area.",
+  "homeDesc2": "Press Locate & Report button to report an issue.",
+  "homeDesc3": "are you sure you want to send the record ?",
+  "homeDesc4": "choose type of issue",
+
+
+  "homeT9": "loading ..",
+
+
+
+
+
+
+
+
+
+
+
+  "ReportScreen": "---------------------------------------------------------------",
+  "t1": "Crash / Near Miss",
+  "t2": "Infrastructure Issue",
+  "t3": "Threatening Incident",
+  "reportT1": "Select",
+  "reportT2": "Other",
+  "reportT3": "Report",
+  "reportT4": "Date",
+  "reportT5": "Type",
+  "reportT6": "Sub Type",
+  "reportT7": "Number of involved",
+  "reportT8": "Bikes",
+  "reportT9": "Vehicles",
+  "reportT10": "Pedestrians",
+  "reportT11": "Motorist",
+  "reportT12": "Pedestrian",
+  "reportT13": "Public Transit User",
+  "reportT14": "Cyclist",
+  "reportT15": "Type of collision",
+  "reportT16": "Rear End",
+  "reportT17": "Head On",
+  "reportT18": "Side Swipe",
+  "reportT19": "Overtaking",
+  "reportT20": "Right Turn",
+  "reportT21": "Left Turn",
+
+  "reportT22": "Number of injuries",
+  "reportT23": "Number of fatalities",
+  "reportT24": "Description",
+
+  "reportT25": "Image",
+
+
+  "reportT26": "choose image from",
+  "reportT27": "Gallery",
+  "reportT28": "Camera",
+
+
+
+  "reportDesc1": "Please wait while we are processing your request",
+  "reportDesc2": "Are you involved in the crash / near miss?",
+  "reportDesc3": "Which of the following are you?",
+  "reportDesc4": "Please fill all data fields",
+
+
+
+
+  "reportSub1T1": "Crash",
+  "reportSub1T2": "Near Miss",
+
+
+  "reportSub2T1": "Vandalism",
+  "reportSub2T2": "Harassment",
+  "reportSub2T3": "Insecurity",
+
+  "reportSub3T1": "Road",
+  "reportSub3T2": "Sidewalk",
+  "reportSub3T3": "Bus",
+  "reportSub3T4": "Bike Lane"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/shared_preferences_android/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/shared_preferences_android/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/shared_preferences_android/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/shared_preferences_android/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

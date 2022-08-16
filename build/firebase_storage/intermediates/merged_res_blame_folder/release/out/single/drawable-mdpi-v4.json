@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/3b0df7c5a62e2c0a1499fdd4db4e87c1/jetified-play-services-base-17.1.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/marksaeid/Desktop/important/streetguards final/final/build/firebase_storage/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/e9c04375a6c72fb9a0d55a83a166ab86/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

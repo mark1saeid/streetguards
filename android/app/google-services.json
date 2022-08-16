@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356611906243",
+    "project_id": "street-guards",
+    "storage_bucket": "street-guards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356611906243:android:7a8a82a9601bd91586a076",
+        "android_client_info": {
+          "package_name": "com.brainover.streetguards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356611906243-g9hm79rfhuja8r22n22f63eedf8dv4bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbBNPnyl8X5XFxbNMpgA0ydjOaUxUNLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356611906243-g9hm79rfhuja8r22n22f63eedf8dv4bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

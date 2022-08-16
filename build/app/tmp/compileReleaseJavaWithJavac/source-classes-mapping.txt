@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/brainover/streetguards/BuildConfig.java
+ com.brainover.streetguards.BuildConfig

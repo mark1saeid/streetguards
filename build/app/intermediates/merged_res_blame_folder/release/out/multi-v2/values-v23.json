@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/marksaeid/Desktop/important/streetguards final/final/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/marksaeid/.gradle/caches/transforms-2/files-2.1/03b0c3ac80f351ada33791cb87259a0b/work-runtime-2.7.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
