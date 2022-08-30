@@ -14,7 +14,7 @@ import '../util/palette.dart';
 class HelperMethods {
   Future<bool> isUserExit() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    bool isUserExit = prefs.getString("id") == null ? false : true;
+    bool isUserExit = await prefs.getString("id") == null ? false : true;
     return isUserExit;
   }
 

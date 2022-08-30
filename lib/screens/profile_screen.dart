@@ -451,12 +451,12 @@ class _ProfileScreenState extends State<ProfileScreen> {
                               ),
                               onPressed: () async {
                                 if (passError() == 0) {
-                                  createUserData(userProfile);
-                                  Navigator.pushReplacement(
-                                      context,
-                                      MaterialPageRoute(
-                                          builder: (context) =>
-                                              SplashScreen()));
+                                  createUserData(userProfile).then((value) =>
+                                      Navigator.pushReplacement(
+                                          context,
+                                          MaterialPageRoute(
+                                              builder: (context) =>
+                                                  SplashScreen())));
                                 } else {
                                   _showMyDialogProfile(getMessage(passError()));
                                 }

@@ -43,7 +43,7 @@ Future<User> getProfileData() async {
   return User();
 }
 
-createUserData(User user) async {
+Future createUserData(User user) async {
   String id = await getId();
   user.userId = id;
   try {
